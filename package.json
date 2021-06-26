@@ -1,0 +1,17 @@
+{
+  "name": "edith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harman Sahota",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "discord.js": "^12.5.3",
+    "images-scraper": "^6.3.0",
+    "ms": "^2.1.3"
+  }
+}
